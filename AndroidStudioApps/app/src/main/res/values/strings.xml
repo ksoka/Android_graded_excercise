@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">ButtonDemo</string>
+    <string name="title_activity_button_demo">ButtonDemo</string>
+    <string name="press_text">Press!</string>
+    <string name="hello_text">Hello.</string>
+    <string name="well_done_text">Well done!</string>
+    <string name="second_press_text">second button</string>
+
+</resources>

@@ -1,0 +1,19 @@
+
+<!-- This strings.xml provides Spanish-language values for the
+     texts that this application shows. This must reside in
+     the folder named res/values-es
+
+     2013-02-19 File created.
+     2013-02-19 Last modification.
+
+-->
+
+<resources>
+
+    <string name="app_name">ButtonDemo</string>
+    <string name="title_activity_button_demo">Demostracion Boton</string>
+    <string name="press_text">Pulse!</string>
+    <string name="hello_text">Hola!</string>
+    <string name="well_done_text">Muy bien!</string>
+
+</resources>
